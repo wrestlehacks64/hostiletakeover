@@ -1,7 +1,5 @@
 # Log 01 - Roster Planning
 
----
-
 Today I defined the project scope, focusing on the WCW/nWo era from 1996 to 1998.
 
 I scanned through pages of WCW Monday Nitro and pay-per-view results, concentrating first on the main event wrestlers before working down the card.
