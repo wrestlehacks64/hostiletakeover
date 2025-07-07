@@ -1,4 +1,4 @@
-# Log 02 - Roster Coding
+# Log 02 - Coding / Roster
 
 I opened the ROM in Hex Editor Neo today and jumped down to the section which handles the data for default wrester information.
 
