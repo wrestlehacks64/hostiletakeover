@@ -51,6 +51,15 @@ And making some managers playable :
 - Rick Rude
 - Vincent
 
+Due to the timeline, I removed these characters for now : 
+
+- Brian Adams
+- Reese
+- British Bulldog
+- Jim Neidhart
+
+They will have overwrites : *ex : Bulldog->Anderson, Neidhart->McMichael, etc*
+
 This was the final stable layout of all planned wrestlers : 
 
 
