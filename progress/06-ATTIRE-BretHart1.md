@@ -1,4 +1,4 @@
-# Log 06 - Hitman
+# Log 06 - Attire / Bret Hart 1
 
 Finally decided to tackle a more complex attire and chose Bret Hart.
 
