@@ -1,4 +1,4 @@
-# Log 04 - Woooooo
+# Log 04 - Attire / Ric Flair 1
 
 Starting my first wrestler mod, I decided to make Ric Flair. I thought it would be a simple intro to editing in-game graphics.
 
