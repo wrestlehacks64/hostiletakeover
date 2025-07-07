@@ -4,7 +4,7 @@ Today is the anniversary of the Bash at the Beach 96 pay-per-view, an event that
 
 I decided it was time to do another "advanced" attire mod, so I picked Randy Savage's split star attire. It's not really advanced, just something that takes a lot of alignment and palette planning.
 
-For the default color, I went with the bright fluorescent yellow and purple. Some color changes and you can re-create his Red/Yellow (Slim Jim-style) or a cool Black/White.
+For the default color, I went with the bright fluorescent yellow and pink. Some color changes and you can re-create his Red/Yellow (Slim Jim-style) or a cool Black/White.
 
 ![macho1](https://github.com/user-attachments/assets/4c78b34c-b1fe-4fc8-9d88-c006cc74a615)
 
