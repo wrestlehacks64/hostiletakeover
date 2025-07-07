@@ -1,4 +1,4 @@
-# Logbook Naming Guide
+# Logbook Info
 
 To keep my development logs clear, consistent, and easy to navigate, I use the following filename format:
 
