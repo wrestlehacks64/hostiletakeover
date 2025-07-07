@@ -22,3 +22,14 @@ These pants might be good for Disco Inferno too? Not sure yet.
 And just to finish Macho up, added a new taped hand and wasted a texture for 20 pixels of finger tape.  
 
 I also spent most of my day migrating all of my logs from Substack onto GitHub. I like the platform and ease of adding updates. Hopefully I can take better advantage of the resources. But, I feel out of place when not coding or building software. 
+
+Random TIL while making this attire. There's an error in the original game where the devs copy and pasted a plain forearm on the upper arms of the nWo Sleeveless attires for Medium, Large and Extra Large bodies. You can barely notice if you're going through the attires. Somehow, Small body types, the error was fixed.
+
+Medium Body - Notice the upper arm. 
+
+![WCW - nWo  REVENGE-0](https://github.com/user-attachments/assets/54bfba80-831f-4865-869c-1e3b5ac55b39)
+
+And fixed. 
+![WCW - nWo  REVENGE-1](https://github.com/user-attachments/assets/5d6e519d-f4bd-4136-8289-a2748ddaccfb)
+
+So, if you're doing a ROM hack of Revenge, that's something to look for. 
