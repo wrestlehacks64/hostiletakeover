@@ -1,4 +1,4 @@
-# Log 05 - Total Package
+# Log 05 - Attire / Lex Luger 1
 
 Just wanted another simple "trunks" attire. Decided to go with Lex Luger.
 
