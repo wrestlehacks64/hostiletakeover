@@ -1,4 +1,4 @@
-# Log 01 - Roster Planning
+# Log 01 - General / Planning
 
 Today I defined the project scope, focusing on the WCW/nWo era from 1996 to 1998.
 
