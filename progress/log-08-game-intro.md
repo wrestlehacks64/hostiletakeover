@@ -74,6 +74,7 @@ Hogan on the Stage (Scene 08)
 
 This section has been well documented by others, just curiousity pulled me into learning how the whole intro process was pieced together. 
 
+I'm going to stop before I get too deep into this, but I'm glad to know the basics. 
 
 
 
