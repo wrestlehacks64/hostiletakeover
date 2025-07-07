@@ -115,9 +115,9 @@ If you squeeze/expand the wrestler data using this method, you have to make sure
 
 This is later used to properly build stables. 
 
-After rewriting my entire roster with their proper names, I actually had 312 total bytes of empty space.
+After rewriting my entire roster with their proper names, I actually had 312 total bits of empty space.
 
-Tthe stable pointers weren't locked into a specific address. With my empty space, I pulled the wrestlers up 4 lines. This allowed me to stack extra wrestlers in my stables without worrying about overflow and limitations. 
+The stable pointers weren't locked into a specific address. With my empty space, I pulled the wrestlers up 4 lines. This allowed me to stack extra wrestlers in my stables without worrying about overflow and limitations. 
 
 These wrestlers also need their own ID2. If two or more slots share the same value, there can be crashing when editing names or during gameplay. It goes up to hex-49 / dec-73 total characters, which is enough for the game.
 
