@@ -1,4 +1,4 @@
-# Log 07 - Stinger
+# Log 07 - Attire / Sting 1-2
 
 I finally decided to edit my favorite WCW wrestler today.
 
