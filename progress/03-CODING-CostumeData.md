@@ -1,4 +1,4 @@
-# Log 03 - Costume Data
+# Log 03 - Coding / Costume Data
 
 I am eager to begin modding these characters, but first, I wanted to compile all of the costume data in the game. This will give me a better grasp of how each attire is constructed and coded. As many wrestlers share the same assets *(ex. boots, wristbands, etc)*, I will need to properly recode certain attires and need the structure.
 
