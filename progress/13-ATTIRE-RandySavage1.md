@@ -12,7 +12,7 @@ The star placement isn't 100% accurate. I learned more about the "stretch" disto
 
 Also, I needed a good lower leg for the wide tassel area. A common idea is to use a Jeans polygon. In Revenge (and maybe other games), using a jean model also expands the hip area. Since these are tights w/ tassels, I decided to :
 
-1) Import a full Medimum tights (0008) body onto an unused body shape.
+1) Import a full Medium tights (0008) body onto an unused body shape.
 2) Import a normal jeans lower leg onto the unused body shape's lower leg.
 3) Connect the lower leg with the knee area of the upper leg
 4) Widen the left, right, and back sections of the lower leg 3-hex.
