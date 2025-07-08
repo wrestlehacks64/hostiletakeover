@@ -19,6 +19,8 @@ His kneepad type and with/without socks varied over the years. After watching WC
 Here's some example color changes on the attire. 
 ![malenko2](https://github.com/user-attachments/assets/2e191f56-f581-4368-9896-a82ac70dfa58)
 
+*after making this log update, I went back and removed a few pixels off the upper leg so the kneepads aren't so "long"*
+
 *If there's space*, I might consider an alternate where you can change the black, but then that will lock the outline as black.  
 
 I started working on Jericho's Fall Brawl 97 attire, one of my favorite from his WCW run. But couldn't line up the pattern so well. I might look to another for guidance.
