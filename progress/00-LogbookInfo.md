@@ -34,6 +34,9 @@ To keep my development logs clear, consistent, and easy to navigate, I use the f
 - **ARENA**  
   Covers modifications to ring design, arena backgrounds, crowd, lighting, and overall stage presentation.
 
+- **MOVES**  
+  Notes on grapples, strikes, taunts, finishers, and animations — including move IDs, slot assignments, and behavior testing.
+
 - **INTERFACE**  
   User interface tweaks such as menus, HUD elements, and navigation improvements.
 
