@@ -1,4 +1,4 @@
-# Log 14 - Default Upgrades
+# Log 15 - Default Upgrades
 
 Added a [references](./references/) folder to the project today before getting started. I often lose my spot or get distracted, so it's easier just to dump and keep that one tab open.
 
