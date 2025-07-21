@@ -1,7 +1,10 @@
 ### Attire List
 
+Key :
+*Planned*
+~Complete~
+
 **Body Type: Small**
-```
 01: 
 02: 
 03: 
@@ -26,19 +29,18 @@
 22: 
 23: 
 24: 
-```
+
 
 **Body Type: Medium**
 
-```
-01: STING A (Surfer)
-02: STING B (Stinger)
-03: STING C (Starrcade 97)
-04: LEX LUGER (Wrestling)
-05: RIC FLAIR (Wrestling)
-06: BRET HART (Wrestling)
-07: BOOKER T. A (Harlem Heat 1)
-08: BOOKER T. B (Harlem Heat 2)
+~01: STING A (Surfer)~
+~02: STING B (Stinger)~
+~03: STING C (Starrcade 97)~
+~04: LEX LUGER (Wrestling)~
+~05: RIC FLAIR (Wrestling)~
+~06: BRET HART (Wrestling)~
+~07: BOOKER T. A (Harlem Heat 1)~
+*08: BOOKER T. B (Harlem Heat 2)*
 09: 
 10: 
 11: 
@@ -94,11 +96,9 @@
 61: 
 62: 
 63: 
-```
 
 **Body Type: Large**
 
-```
 01: 
 02: 
 03: 
@@ -132,10 +132,8 @@
 31: 
 32: 
 33: 
-```
 
 **Body Type: X-Large**
-```
 01: 
 02: 
 03: 
@@ -156,4 +154,3 @@
 18: 
 19: 
 20: 
-```
