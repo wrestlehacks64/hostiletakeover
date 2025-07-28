@@ -7,3 +7,6 @@
 | 06BE  | EXOCUTIONER   | STOMACH   |
 | 0695  | EXOCUTIONER   | CHEST     |
 | 0696  | EXOCUTIONER   | CHEST     |
+| 065F  | DR. FRANK     | CHEST     |
+| 0660  | DR. FRANK     | CHEST     |
+
