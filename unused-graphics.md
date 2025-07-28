@@ -11,4 +11,7 @@
 | 0660  | DR. FRANK     | CHEST     |
 | 0681  | MAYA INCA BOY | CHEST     |
 | 0682  | MAYA INCA BOY | CHEST     |
-
+| 0699  | SHOGUN        | STOMACH   |
+| 069A  | SHOGUN        | STOMACH   |
+| 0667  | SHOGUN        | CHEST     |
+| 0668  | SHOGUN        | CHEST     |
